@@ -14,11 +14,14 @@
     "web-vitals": "^2.1.4",
     "webfontloader": "^1.6.28"
   },
+  "homepage": "https://TeoOrt.github.io/AQO_LinkTree",
   "scripts": {
     "start": "cross-env PORT=3023 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
