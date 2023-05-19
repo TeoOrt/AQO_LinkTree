@@ -1,0 +1,65 @@
+
+
+*{
+    background-color: #FFE5BB;
+
+}
+
+@font-face {
+    font-family: 'Groovy';
+    src: url('images/BebasNeue-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+html{
+    font-family: Groovy;
+    font-size: 200px;
+    font-weight: 700;
+    font-style: bold;
+}
+
+  
+
+.Logo{
+    width: 100%;
+    height: auto;
+    padding-right: 300px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+
+.LinkTree{
+    
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.LinkItem {
+    position: relative;
+  }
+  
+  .LinkItem img {
+    width: 100%; /* Adjust the width as needed */
+  }
+  
+  .LinkItem p {
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.5); /* Adjust the background color and transparency as needed */
+    color: #ff6100; /* Adjust the text color as needed */
+    border-radius: 25px;
+  }
+  
+  .LinkItem a{
+    text-decoration: none;
+  }
