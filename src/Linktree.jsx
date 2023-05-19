@@ -9,7 +9,7 @@ const Linktree = () => {
     },
     {
       title: "facebook",
-      url: "https://www.facebook.com/marketplace/profile/100003196782318",
+      url: "https://www.facebook.com/profile.php?id=100091486185370",
     },
     {
       title: "cashapp",
