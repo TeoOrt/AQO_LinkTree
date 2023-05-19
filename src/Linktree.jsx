@@ -13,16 +13,16 @@ const Linktree = () => {
     },
     {
       title: "cashapp",
-      url: "https://example.com/link3",
+      url: "https://cash.me/$aylinquintanaa",
     },
     {
       title: "venmo",
-      url: "https://example.com/link3",
+      url: "https://venmo.com/u/mateomx",
     },
-    {
-      title: "paypal",
-      url: "https://example.com/link3",
-    },
+    // {
+    //   title: "paypal",
+    //   url: "https://example.com/link3",
+    // },
   ];
 
   return (
