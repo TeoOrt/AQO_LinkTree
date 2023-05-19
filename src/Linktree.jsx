@@ -9,20 +9,20 @@ const Linktree = () => {
     },
     {
       title: "facebook",
-      url: "https://www.facebook.com/marketplace/profile/100003196782318",
+      url: "https://www.facebook.com/profile.php?id=100091486185370",
     },
     {
       title: "cashapp",
-      url: "https://example.com/link3",
+      url: "https://cash.me/$aylinquintanaa",
     },
     {
       title: "venmo",
-      url: "https://example.com/link3",
+      url: "https://venmo.com/u/mateomx",
     },
-    {
-      title: "paypal",
-      url: "https://example.com/link3",
-    },
+    // {
+    //   title: "paypal",
+    //   url: "https://example.com/link3",
+    // },
   ];
 
   return (
