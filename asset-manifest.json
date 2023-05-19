@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AQO_LinkTree/static/css/main.a23e0fb4.css",
+    "main.js": "/AQO_LinkTree/static/js/main.8ae4b7d4.js",
+    "static/media/logo.png": "/AQO_LinkTree/static/media/logo.cf23dfd273bf3fd1e94b.png",
+    "static/media/banners.png": "/AQO_LinkTree/static/media/banners.280e7a9b364f722bfe26.png",
+    "static/media/BebasNeue-Regular.ttf": "/AQO_LinkTree/static/media/BebasNeue-Regular.2bd598112a71b3600ffc.ttf",
+    "index.html": "/AQO_LinkTree/index.html",
+    "main.a23e0fb4.css.map": "/AQO_LinkTree/static/css/main.a23e0fb4.css.map",
+    "main.8ae4b7d4.js.map": "/AQO_LinkTree/static/js/main.8ae4b7d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a23e0fb4.css",
+    "static/js/main.8ae4b7d4.js"
+  ]
+}
