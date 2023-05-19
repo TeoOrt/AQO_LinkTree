@@ -13,9 +13,8 @@
 }
 html{
     font-family: Groovy;
-    font-size: 70px;
-    font-weight: 700;
-    font-style: bold;
+    font-size: 55px;
+    font-weight: 900;
 }
 
   
@@ -54,7 +53,7 @@ html{
     left: 50%;
     transform: translate(-50%, -50%);
     margin: 0;
-    padding: 10px;
+    padding: 40px 40px;
     background-color: rgba(255, 255, 255, 0.5); /* Adjust the background color and transparency as needed */
     color: #ff6100; /* Adjust the text color as needed */
     border-radius: 25px;
